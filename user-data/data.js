@@ -87,6 +87,14 @@ export const education = [
     tags: ["Physics", "Chemistry", "Mathematics"],
     icon: "book",
   },
+  {
+    title: "Class 12th in Science and Mathematics",
+    duration: "",
+    subtitle: "Board of Secondary Education, Rajasthan",
+    details: [],
+    tags: ["Physics", "Chemistry", "Mathematics"],
+    icon: "book",
+  },
 ];
 
 export const footer = [
@@ -141,13 +149,13 @@ export const footer = [
       },
       {
         text: "Github",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        link: "https://github.com/AkaramVamshi",
       },
     ],
   },
   {
     label: "copyright-text",
-    data: ["Made with &hearts; by Vinay Somawat"],
+    data: ["Made with &hearts; by Akaram Vamshi"],
   },
 ];
 
