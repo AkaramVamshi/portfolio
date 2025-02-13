@@ -165,3 +165,4 @@ export const footer = [
     data: ["Made with &hearts; by Vinay Somawat"],
   },
 ];
+
